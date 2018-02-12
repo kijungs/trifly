@@ -1,11 +1,11 @@
 =================================================================================
 
  Tri-Fly: Distributed Estimation of Global and Local Triangle Counts in Graph Streams
- Authors: Anonymized
+ Authors: Kijung Shin, Mohammad Hammoud, Euiwoong Lee, Jinoh Oh, and Christos Faloutsos
 
  Version: 1.0
  Date: Nov 10, 2017
- Main Contact: Kijung Shin, Mohammad Hammoud, Euiwoong Lee, Jinoh Oh, and Christos Faloutsos
+ Main Contact: Kijung Shin (kijungs@cs.cmu.edu)
 
  This software is free of charge under research purposes.
  For commercial purposes, please contact the author.
